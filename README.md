@@ -14,5 +14,4 @@ are reliable and user-friendly. Am Looking forward to working in an industrial a
   - email: jonasmwansa7@gmail.com
   - cell: +260968555983
 
-👉 kindly check my portfolio website [here](https://GitHub.io/jonasmwansa/portfoliorepo/)
-
+👉 kindly check my portfolio website [here](https://jonasmwansa.github.io/portfoliorepo/)
