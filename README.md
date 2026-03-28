@@ -2,50 +2,84 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jonas-mwansa-787259155/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-
-  
   <a href="https://twitter.com/jonas18939942">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
 </div>
 
-### Hi there 👋
-## Am glad to meet you,
-
-Am a proactive and practical computer engineer with a passion to develop innovative programs that expedite the 
-efficiency and effectiveness of mankind operations. Well-versed in technology with other three (3) years corporate experience delivering systems that
-are reliable and user-friendly.
-
-
-- 🌱 I’m currently perfecting react js and django framework
-- 💬 Am open for contractual and part time job openings, 
-- 📫 Do not hestitate if you want to contact me,
-  
-  - email: jonasmwansa7@gmail.com
-  - cell: +260968555983
 ---
 
+## 👋 Hi, I'm Jonas Mwansa
 
-👉 kindly check my portfolio website [here](https://jonasmwansa.github.io/portfoliorepo/)
+Backend Software Engineer focused on building **scalable Python systems** for real-world, high-impact applications.
 
+I currently design and operate backend services supporting **national-scale platforms** serving over **1 million users**, including systems processing **ZMW 17M+ in transactions**.
 
+---
 
+## 🚀 What I Do
 
+- ⚙️ Build **scalable backend services** using Python (Django)
+- 🔗 Design and integrate **REST APIs** across modern and legacy systems
+- 🔄 Develop **automation pipelines & background processing systems**
+- 🐧 Deploy and maintain systems in **Linux environments**
+- 📊 Optimize **database performance** (SQL Server, MySQL)
+- 🛠 Debug and support **production systems under real-world load**
 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonasmwansa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonasmwansa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmwansa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌍 Experience
 
+- 🇿🇲 Backend Engineer @ Examinations Council of Zambia  
+  - Systems used by **1M+ users annually**
+  - Built services handling **ZMW 17M+ transactions**
+- 🌐 Remote Developer (Hackers in Residence Program)  
+  - Collaborated in a **distributed team environment**
+  - Delivered software solutions with **global workflows**
+
+---
+
+## 🧠 Currently Exploring
+
+- ⚡ Go (Golang) for concurrency and backend performance
+- 🐳 Docker & containerized deployments
+- ☁️ Scalable system design & distributed systems
+
+---
+
+## 📫 Contact Me
+
+- Email: jonasmwansa7@gmail.com  
+- Phone: +260968555983  
+
+👉 Portfolio: https://jmwansa.pythonanywhere.com/
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jonasmwansa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jonasmwansa&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmwansa&theme=dark&hide_border=false&layout=compact)
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonasmwansa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
